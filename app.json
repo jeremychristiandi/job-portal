@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "name": "react-native-job",
+    "slug": "react-native-job",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "eb2479e2-a527-45cc-904b-cf01567fd2d3"
+      }
+    },
+    "android": {
+      "package": "com.jc.rnjob"
+    }
+  }
+}
