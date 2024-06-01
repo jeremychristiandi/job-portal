@@ -20,6 +20,9 @@
     },
     "android": {
       "package": "com.jc.rnjob"
+    },
+    "ios": {
+      "bundleIdentifier": "com.jc.rnjob"
     }
   }
 }
